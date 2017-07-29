@@ -7,7 +7,7 @@
       screenShake: true
   "atom-beautify":
     general:
-      _analyticsUserId: "c4f4fbd6-855d-40a9-b92a-bb8b83f4b1c9"
+      _analyticsUserId: "2a005dc3-5c59-4087-8f3a-49077a1664ac"
     html:
       extra_liners: [
         "head"
@@ -20,38 +20,32 @@
       preserve_newlines: false
     js:
       preserve_newlines: false
-  "atom-package-deps":
-    ignored: []
-  "color-picker":
-    automaticReplace: true
   core:
     disabledPackages: [
       "wrap-guide"
       "activate-power-mode"
     ]
-    openEmptyEditorOnStart: false
     telemetryConsent: "limited"
     themes: [
       "one-dark-ui"
       "base16-tomorrow-dark-theme"
     ]
   editor:
-    fontSize: 13
-    softWrap: true
+    fontSize: 16
   "exception-reporting":
-    userId: "5282ac47-7dae-57da-139d-699126045b25"
-  linter: {}
+    userId: "354f80ec-5e35-47a6-a204-f634c5d2053a"
   "linter-ui-default":
     panelHeight: 69
   minimap:
     plugins:
       linter: true
       linterDecorationsZIndex: 0
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
   "symbols-tree-view":
     autoHide: true
     autoToggle: true
-  "tree-view":
-    showOnRightSide: true
-    squashDirectoryNames: true
-  welcome:
-    showOnStartup: false
+  "color-picker":
+    automaticReplace: true

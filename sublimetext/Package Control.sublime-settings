@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"auto-save",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Diffy",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"MagicPython",
+		"Material Theme",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-cpplint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"Terminal"
+	]
+}

@@ -4,11 +4,14 @@
 # Debian:
 `apt-get install python-pip python nodejs`
 
+# Windows:
+Install NodeJS LTS
+
 # Node Dependencies
 `npm install -g eslint htmlhint csslint`
 
 # Python Dependencies
-`pip install cpplint`
+`pip install cpplint` (not work on windows)
 
 # Conflicts Fix:
 `Package Control: Disable Package` ---> `Python`

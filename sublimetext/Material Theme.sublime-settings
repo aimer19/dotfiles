@@ -1,8 +1,9 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/base16-classic-dark (SL).tmTheme",
-	"font_size": 13,
+	"font_size": 11,
 	"ignored_packages":
 	[
+		"Python",
 		"Vintage"
 	],
 	"material_theme_accent_tomato": true,
@@ -13,6 +14,7 @@
 	"material_theme_small_tab": true,
 	"material_theme_tabs_autowidth": true,
 	"material_theme_tabs_separator": true,
+	"open_files_in_new_window": false,
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"use_simple_full_screen": true,
 	"word_wrap": true

@@ -1,17 +1,17 @@
 # ArchLinux:
 Dependencies: `pacman -S python-pip python nodejs`
 
-Install Packages: `npm install -g eslint htmlhint csslint` and `pip install cpplint` (not work on windows)
+Install Packages: `npm install -g eslint htmlhint csslint jshint json php` and `pip install cpplint` (not work on windows)
 
 # Debian:
 Dependencies: `apt-get install python-pip python nodejs`
 
-Install Packages: `npm install -g eslint htmlhint csslint` and `pip install cpplint` (not work on windows)
+Install Packages: `npm install -g eslint htmlhint csslint jshint json php` and `pip install cpplint` (not work on windows)
 
 # Windows:
 Install NodeJS LTS
 
-Install Packages: `npm install -g eslint htmlhint csslint`
+Install Packages: `npm install -g eslint htmlhint csslint jshint json php`
 
 # Config - Install Package on sublime
 - Copy content from `Package Control.sublime-settings` to `Preferences` --> `Package Settings` --> `Package Control` --> `Settings - User` and replace all

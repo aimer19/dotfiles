@@ -1,6 +1,6 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/base16-classic-dark (SL).tmTheme",
-	"font_size": 11,
+	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-classic-dark.tmTheme",
+	"font_size": 9,
 	"ignored_packages":
 	[
 		"Python",

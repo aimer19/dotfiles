@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"3024 Color Scheme",
+		"A File Icon",
 		"Alignment",
 		"All Autocomplete",
 		"auto-save",
@@ -23,7 +24,7 @@
 		"Google Dictionary",
 		"HTML-CSS-JS Prettify",
 		"MagicPython",
-		"Markdown Preview",
+		"MarkdownPreview",
 		"Material Theme",
 		"Package Control",
 		"Pretty JSON",
@@ -32,14 +33,13 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
-		"SublimeLinter-jshint",
 		"SublimeLinter-cpplint",
-		"SublimeLinter-html-tidy",
 		"SublimeLinter-csslint",
+		"SublimeLinter-eslint",
+		"SublimeLinter-html-tidy",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
 		"Terminal",
-		"Trimmer",
-		"TypeScript"
+		"Trimmer"
 	]
 }

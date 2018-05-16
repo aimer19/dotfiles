@@ -1,17 +1,17 @@
 # ArchLinux:
-Dependencies: `pacman -S python-pip python nodejs`
+Dependencies: `pacman -S python-pip python nodejs tidy ttf-fira-code`
 
-Install Packages: `npm install -g eslint htmlhint csslint jshint json php` and `pip install cpplint` (not work on windows)
+Install Packages: `npm install -g eslint htmlhint htmltidy csslint json php` and `pip install cpplint` (not work on windows)
 
 # Debian:
-Dependencies: `apt-get install python-pip python nodejs`
+Dependencies: `apt-get install python-pip python nodejs tidy fonts-firacode`
 
-Install Packages: `npm install -g eslint htmlhint csslint jshint json php` and `pip install cpplint` (not work on windows)
+Install Packages: `npm install -g eslint htmlhint htmltidy csslint json php` and `pip install cpplint` (not work on windows)
 
 # Windows:
 Install NodeJS LTS
 
-Install Packages: `npm install -g eslint htmlhint csslint jshint json php`
+Install Packages: `npm install -g eslint htmlhint htmltidy csslint jshint json php`
 
 # Config - Install Package on sublime
 - Copy content from `Package Control.sublime-settings` to `Preferences` --> `Package Settings` --> `Package Control` --> `Settings - User` and replace all
